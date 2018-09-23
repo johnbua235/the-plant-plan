@@ -1,12 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>johns plant network</title>
-  <meta charset="utf-8"/>
-  </head>
-<body>
-  <h1>johns plants</h1>
-  <h3>take ur plants to the next level.</h3>
-  <p>buy plants</p>
-</body>
-</html>
+
