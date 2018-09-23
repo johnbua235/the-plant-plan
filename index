@@ -1,22 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <H1> Johhns Plants </H1>
-  <title>johns plants</title>
+  <title>johns plant network</title>
   <meta charset="utf-8"/>
   <link rel="stylesheet" type="text/css" href="main.css">
 </head>
 <body>
-  <div class="container">
-    <div class="nav">
-      <h2>categories</h2>
-      <ul>
-        <li>annuals</li>
-        <li>perenials</li>
-        <li>bienniels</li>
-        <li>herbaceous</li>
-        <li>woody</li>
-      </ul>
-      
-      
-      </html>
+  <h1>johns plants</h1>
+  <h3>take ur plants to the next level.</h3>
+  <p>buy plants</p>
+</body>
+</html>
